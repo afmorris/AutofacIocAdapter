@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AutofacIocAdapter</id>
+    <version>1.0.0</version>
+    <title>Autofac IOC Adapter</title>
+    <description>The Autofac IOC Adapter for ServiceStack, as described here: https://github.com/ServiceStack/ServiceStack/wiki/The-IoC-container</description>
+    <authors>Tony Morris</authors>
+    <language>en-US</language>
+    <projectUrl>https://github.com/afmorris/AutofacIocAdapter</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/afmorris/AutofacIocAdapter/master/LICENSE.md</licenseUrl>
+    <tags>autofac,servicestack</tags>
+  </metadata>
+</package>
